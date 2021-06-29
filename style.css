@@ -1,0 +1,12 @@
+body{
+    margin-left: 300px;
+    margin-top:100px;
+    background-color: blanchedalmond;
+}
+
+body , .text_images_and_results
+{
+    width: 300px;
+    height: 300px;
+
+}
